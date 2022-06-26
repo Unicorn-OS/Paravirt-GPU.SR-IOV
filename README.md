@@ -6,10 +6,15 @@ sch: https://www.google.com/search?q=GPU+SRIOV
 Discussion:
 - https://github.com/intel/gvt-linux/issues/190#issuecomment-1137390748 ,
 - https://www.reddit.com/r/VFIO/comments/twx11c/another_thread_about_sriov_on_intel_iris_xe_gpu/
+- https://www.reddit.com/r/VFIO/comments/o7l2zr/sriov_on_intel_xe_graphics/
 
 compatibility: = 11th Gen &amp; above https://www.intel.com/content/www/us/en/support/articles/000058558/graphics.html
 
 sch: https://www.google.com/search?q=intel+GPU+SRIOV
+
+## Container
+Discussion:
+- https://www.reddit.com/r/jellyfin/comments/sjskuf/new_intel_xe_gpus_and_containersvms/
 
 # guide:
 guide.video:
